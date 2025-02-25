@@ -1,0 +1,9 @@
+torch
+torchvision
+optim
+transforms
+matplotlib
+numpy
+os
+opencv-python
+pillow
